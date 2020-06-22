@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30014.187
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI4Android", "WebAPI4Android\WebAPI4Android.csproj", "{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+		win32|Any CPU = win32|Any CPU
+		win32|x86 = win32|x86
+		部署SQLSERVER|Any CPU = 部署SQLSERVER|Any CPU
+		部署SQLSERVER|x86 = 部署SQLSERVER|x86
+		调试ERP|Any CPU = 调试ERP|Any CPU
+		调试ERP|x86 = 调试ERP|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.Debug|x86.Build.0 = Debug|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.Release|x86.ActiveCfg = Release|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.Release|x86.Build.0 = Release|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.win32|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.win32|Any CPU.Build.0 = Release|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.win32|x86.ActiveCfg = Release|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.win32|x86.Build.0 = Release|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.部署SQLSERVER|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.部署SQLSERVER|Any CPU.Build.0 = Release|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.部署SQLSERVER|x86.ActiveCfg = Release|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.部署SQLSERVER|x86.Build.0 = Release|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.调试ERP|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.调试ERP|Any CPU.Build.0 = Release|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.调试ERP|x86.ActiveCfg = Release|Any CPU
+		{DD7E3FD3-6CF0-42CE-906A-669BD9E3D124}.调试ERP|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16A5F898-A47B-4C56-B336-14DBF5F9BE1F}
+	EndGlobalSection
+EndGlobal
